@@ -1,0 +1,1 @@
+This perl script will allow you to setup a configuration of dice and have the computer roll them in real time. Keeps statistics, and provides a simple prompt to enable it's use during game play.
